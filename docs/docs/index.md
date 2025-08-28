@@ -385,7 +385,7 @@ Transitous currently has no built-in way to visualize availabe sharing vehicles.
 GTFS-Flex is an extension of GTFS static timetable data and as such is also a ZIP file containing CSV tables.
 Additionally, it can also contain GeoJSON files defining regions that can be viewed e.g. with QGIS.
 
-Tansitous' [map view in debug mode](https://api.transitous.org/?debug) does show GTFS-Flex zones when zooming in
+Transitous' [map view in debug mode](https://api.transitous.org/?debug) does show GTFS-Flex zones when zooming in
 far enough.
 
 ### OSM
